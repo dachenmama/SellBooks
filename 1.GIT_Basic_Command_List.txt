@@ -1,3 +1,4 @@
 1. git config 
 2. git status
 3. git stash
+4. git diff
