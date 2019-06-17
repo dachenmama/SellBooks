@@ -8,3 +8,4 @@
 8. git push
 9. git merge
 10. git pull
+11. git branch
