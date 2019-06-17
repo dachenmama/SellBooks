@@ -3,3 +3,4 @@
 3. git stash
 4. git diff
 5. git reset
+6. git reset --hard
